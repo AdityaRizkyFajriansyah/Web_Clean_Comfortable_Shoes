@@ -154,4 +154,4 @@ Menerima pesan teks dan opsional foto sepatu dalam format base64.
 
 ## 📝 Lisensi & Kredit
 
-Dikembangkan untuk **Clean Comfortable Shoes**. Hak cipta dilindungi.
+Dikembangkan untuk **Clean Comfortable Shoes**.
